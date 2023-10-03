@@ -4,7 +4,7 @@
 https://github.com/chatchat-space/Langchain-Chatchat
 
 安装全部依赖
-\n
+
 $ pip install -r requirements.txt
 
 通常不能成功安装 zh_core_web_sm
