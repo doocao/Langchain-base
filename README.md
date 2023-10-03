@@ -3,8 +3,10 @@
 代码参考 LangChain-Chatchat项目
 https://github.com/chatchat-space/Langchain-Chatchat
 
+Successfully created project 'langchain-base' on GitHub, but initial commit failed: Author identity unknown *** Please tell me who you are. Run git config --global user.email "you@example.com" git config --global user.name "Your Name" to set your account's default identity. Omit --global to set the identity only in this repository. unable to auto-detect email address (got 'doo@cao.(none)')
+
 安装全部依赖
-\n
+
 $ pip install -r requirements.txt
 
 通常不能成功安装 zh_core_web_sm
